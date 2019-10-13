@@ -9,7 +9,8 @@
     "copy": "cpx src/*.{html,js} public",
     "dev": "webpack-dev-server --inline --hot",
     "build": "webpack -p",
-    "tsc": "tsc"
+    "tsc": "tsc",
+     "run": "npm run tsc && npm run copy"
   },
   "author": "",
   "license": "ISC",
