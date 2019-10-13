@@ -1,0 +1,32 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "start:dev": "webpack-dev-server --watch --open ",
+    "copy": "cpx src/*.{html,js} public",
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "webpack -p",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.4.4",
+    "cpx": "^1.5.0",
+    "eslint": "^6.5.1",
+    "http-server": "^0.11.1",
+    "jasmine-core": "^3.5.0",
+    "karma": "^4.3.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-webpack": "^4.0.2",
+    "ts-loader": "^6.2.0",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
