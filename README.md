@@ -7,3 +7,4 @@
     - es werden alle html und js-Files in den Ordner public kopiert
   - npm run start:dev
     - es wird ein Web-Server gestartet und der Browsser geöffnet
+    - Sie können hier zum Ordner public navigieren und Ihr Programm validieren. 
