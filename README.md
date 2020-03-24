@@ -5,3 +5,5 @@
   - npm run run
     - es werden alle ts-Files übersetzt in js-Files
     - es werden alle html und js-Files in den Ordner public kopiert
+  - npm run start:dev
+    - es wird ein Web-Server gestartet und der Browsser 
