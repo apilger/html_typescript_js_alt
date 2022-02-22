@@ -1,4 +1,7 @@
 # node_html_typescript_js
+---
+- https://github.com/apilger/html_typescript_js_alt.git
+---
 # Dies ist ein initiales Projekt für den Unterricht MGIN zur Entwicklung von Webprojekten mit Node.js und Typescript
 - Im Ordner src liegen die Source-Files (html, ts, js)
 - Folgende Befehle sollten ausgeführt werden
